@@ -1,0 +1,17 @@
+---
+layout: page
+title: About Us & Expertise
+permalink: /about/
+---
+
+## Meet the Team
+
+### [George Wu]
+* **Background:** Applied Statistician with an advanced foundation in predictive modeling, variance decomposition, and non-parametric methods. Expert in mitigating data-leakage, scaling highly skewed real-world target distributions, and translating mathematical outputs into optimized risk and strategic business insights.
+* **Resume:** [Download [Member 1]'s Resume Here](/assets/resumes/member1_resume.pdf)
+
+### [Group Member 2 Name]
+* **Background:** [1-2 sentences about your major, stats background, and skills]
+* **Resume:** [Download [Member 2]'s Resume Here](/assets/resumes/member2_resume.pdf)
+
+*(Note: To make the links work, you will need to create an `assets/resumes/` folder in your repository and upload your actual PDF files there!)*
