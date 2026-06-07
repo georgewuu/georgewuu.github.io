@@ -1,0 +1,5 @@
+title: My Custom Website
+description: A brand new start with the So Simple theme.
+remote_theme: mmistakes/so-simple-theme
+plugins:
+  - jekyll-remote-theme
