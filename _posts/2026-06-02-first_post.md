@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Our STATS 421 Blog Assessment"
+title: "Unpacking the Math of the Blinds: A Statistical Review of Luck vs. Skill in Poker 
+Is poker a game of skill, or just a high-stakes gambling game with luck?"
 ---
 
 For decades, this question has breached casino walls and entered federal courtrooms, shaping the legal landscape of online gaming. 
