@@ -13,7 +13,7 @@ permalink: /about/
 ### Zhongyang Fan
 <img src="/asset/images/team/zhongyang-fan.jpg" alt="Portrait of Zhongyang Fan" width="220" style="border-radius: 10px; margin: 0.5rem 0 1rem 0;">
 
-* **Role:** Group Member 2
+* **Role:** Applied Statistics and Machine Learning Consultant
 * **Background:** Zhongyang Fan is currently pursuing an M.S. in Applied Statistics and Data Science at UCLA after completing a B.S. in Applied Mathematics at UC Davis. He brings training in machine learning, applied regression, large language models, and mathematical statistics, along with experience translating messy real-world data into structured analysis.
 * **Experience Highlights:** Zhongyang has worked on prompt-engineering and evaluation workflows for large-scale veterinary report scoring at Vetology, and previously supported market research and investment analysis at Energy Innovation Capital. His projects combine statistical modeling, predictive analytics, and communication-ready reporting for practical decision-making.
 * **Focus Areas:** Statistical modeling, machine learning, prompt engineering, exploratory data analysis, and data storytelling
