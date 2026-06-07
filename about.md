@@ -14,4 +14,3 @@ permalink: /about/
 * **Background:** [1-2 sentences about your major, stats background, and skills]
 * **Resume:** [Download [Member 2]'s Resume Here](/asset/resumes/member2_resume.pdf)
 
-*(Note: To make the links work, you will need to create an `assets/resumes/` folder in your repository and upload your actual PDF files there!)*
