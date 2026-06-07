@@ -3,8 +3,7 @@ layout: post
 title: "Our STATS 421 Blog Assessment"
 ---
 
-Unpacking the Math of the Blinds: A Statistical Review of Luck vs. Skill in Poker 
-Is poker a game of skill, or just a high-stakes gambling game with luck? For decades, this question has breached casino walls and entered federal courtrooms, shaping the legal landscape of online gaming. 
+For decades, this question has breached casino walls and entered federal courtrooms, shaping the legal landscape of online gaming. 
 A fascinating detailed discussion of this topic can be found on Andrew Gelman’s Statistical Modeling, Causal Inference, and Social Science blog, specifically in the post Luck vs. Skill in Poker. The post centers around a compelling framework proposed by statistician Rick Schoenberg in his book Probability with Texas Hold’em Applications. 
 Well, just like Schoenberg suggested, “Luck is the equity gained or lost during the deal of the cards, while skill is the equity gained or lost during the betting rounds.” What does that mean exactly? We can use a very simple example to demonstrate. First we need to define equity. Mathematically speaking, Equity = current pot size  Probability of winning at showdown
 Assuming no future betting occurs. 
