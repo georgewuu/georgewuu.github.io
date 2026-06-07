@@ -8,7 +8,7 @@ permalink: /about/
 
 ### [George Wu]
 * **Background:** Applied Statistician with an advanced foundation in predictive modeling, variance decomposition, and non-parametric methods. Expert in mitigating data-leakage, scaling highly skewed real-world target distributions, and translating mathematical outputs into optimized risk and strategic business insights.
-* **Resume:** [Download [Member 1]'s Resume Here](/assets/resumes/member1_resume.pdf)
+* **Resume:** [Download George Wu's Resume Here](/assets/resumes/George Wu-ready to go resume.pdf)
 
 ### [Group Member 2 Name]
 * **Background:** [1-2 sentences about your major, stats background, and skills]
