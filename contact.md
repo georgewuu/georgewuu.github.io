@@ -11,8 +11,8 @@ If you would like to discuss statistical consulting, machine learning applicatio
 ### George Wu
 * **Role:** Applied Statistics and Machine Learning Consultant
 * **Email:** [george901212@gmail.com](mailto:george901212@gmail.com)
-* **LinkedIn:** [linkedin.com/in/george-wu-882368221](www.linkedin.com/in/george-wu-882368221)
-* **Resume:** [Download Resume](/asset/resumes/george_resume.pdf)
+* **LinkedIn:** [www.linkedin.com/in/george-wu-882368221](https://www.linkedin.com/in/george-wu-882368221/?enhance=null)
+* **Resume:** [Download Resume](/asset/resumes/George_resume.pdf)
 
 
 ### Zhongyang Fan
