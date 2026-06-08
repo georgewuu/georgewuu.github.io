@@ -7,7 +7,7 @@ permalink: /about/
 ## Meet the Team
 
 ### [George Wu]
-* **Background:** Applied Statistician with an advanced foundation in predictive modeling, variance decomposition, and non-parametric methods. Expert in mitigating data-leakage, scaling highly skewed real-world target distributions, and translating mathematical outputs into optimized risk and strategic business insights.
+* **Background:** George Wu is a Data Scientist and UCLA Master's candidate with a strong focus on production-grade machine learning and end-to-end data pipelines[cite: 148]. [cite_start]He specializes in transitioning complex generative NLP and predictive models from research to deployment using advanced MLOps workflows[cite: 148, 149, 174]. [cite_start]With experience engineering scalable CatBoost regression models and real-time AWS streaming pipelines, George ensures our firm delivers highly robust, leak-free AI solutions
 * **Resume:** [Download [George Wu's] Resume Here](asset/resumes/George_resume.pdf)
 
 ### Zhongyang Fan
