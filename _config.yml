@@ -1,5 +1,5 @@
-title: My Custom Website
-description: A brand new start with the So Simple theme.
+title: Applied Inference Group
+description: Biostatistical modeling and advanced statistical consulting for research-driven organizations.
 remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-remote-theme

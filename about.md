@@ -13,7 +13,7 @@ permalink: /about/
 * **Background:** George Wu is a Data Scientist and UCLA Master's candidate with a strong focus on production-grade machine learning and end-to-end data pipelines. He specializes in transitioning complex generative NLP and predictive models from research to deployment using advanced MLOps workflows. With experience engineering scalable CatBoost regression models and real-time AWS streaming pipelines, George ensures our firm delivers highly robust, leak-free AI solutions.
 * **Experience Highlights:** Engineered a two-stage routed regression model using CatBoost to forecast concert revenue, while designing a dynamic routing architecture to eliminate model skew across varying event scales. Fine-tuned Gemma 3-4B and Stable Diffusion models to generate narrative-consistent and visually coherent counterfactual storyboards for action movies. Developed optimized, real-time AWS streaming data pipelines for Sotera Digital Health
 * **Focus Areas:** End-to-End Machine Learning, Generative AI & NLP, and Cloud & Data Engineering
-* **Resume:** [Download George Wu's Resume Here](asset/resumes/George_resume.pdf)
+* **Resume:** [Download George Wu's Resume](/asset/resumes/George_resume.pdf)
 
 ### Zhongyang Fan
 <img src="/asset/images/team/zhongyang-fan.jpg" alt="Portrait of Zhongyang Fan" width="220" style="border-radius: 10px; margin: 0.5rem 0 1rem 0;">
