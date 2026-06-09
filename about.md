@@ -7,8 +7,9 @@ permalink: /about/
 ## Meet the Team
 
 ### [George Wu]
-* **Background:** George Wu is a Data Scientist and UCLA Master's candidate with a strong focus on production-grade machine learning and end-to-end data pipelines[cite: 148]. [cite_start]He specializes in transitioning complex generative NLP and predictive models from research to deployment using advanced MLOps workflows[cite: 148, 149, 174]. [cite_start]With experience engineering scalable CatBoost regression models and real-time AWS streaming pipelines, George ensures our firm delivers highly robust, leak-free AI solutions
-* **Resume:** [Download [George Wu's] Resume Here](asset/resumes/George_resume.pdf)
+* **Role:** Data Scientist & ML Architect
+* **Background:** George Wu is a Data Scientist and UCLA Master's candidate with a strong focus on production-grade machine learning and end-to-end data pipelines. He specializes in transitioning complex generative NLP and predictive models from research to deployment using advanced MLOps workflows. With experience engineering scalable CatBoost regression models and real-time AWS streaming pipelines, George ensures our firm delivers highly robust, leak-free AI solutions. 
+* **Resume:** [Download George Wu's Resume Here](asset/resumes/George_resume.pdf)
 
 ### Zhongyang Fan
 <img src="/asset/images/team/zhongyang-fan.jpg" alt="Portrait of Zhongyang Fan" width="220" style="border-radius: 10px; margin: 0.5rem 0 1rem 0;">
