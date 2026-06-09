@@ -21,4 +21,4 @@ There are many different hands and situations in poker that make it very high va
 
 For the full write-up, including the figures and discussion from the original submission, download the PDF below:
 
-* [Download the full Lasso blog PDF](/asset/blogs/blog_pokers.pdf)
+* [Download the pokers blog PDF](/asset/blogs/blogs_pokers.pdf)
