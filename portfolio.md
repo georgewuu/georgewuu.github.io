@@ -20,4 +20,4 @@ This page highlights selected presentation work that reflects our consulting app
 ### Project 2: Counterfactual storyboarding
 * **Abstract:** This report details a generative AI pipeline designed to explore “what-if” (counterfac-tual) scenarios in action cinema. This system leverages a synchronized coupling of fine-tuned Large Language Models (LLMs) and Diffusion-based image synthesis to automate the process of generating alternative storyplots and storyboarding. Ultimately, we hope this work can provide screenwriters, directors, and educators with a “digital sandbox” for pre-visualization, deepening narrative analysis and offering a scalable tool for creative inspiration during the high-stakes pre-production phase of film development.
 * **Full Written Report:** [Download the PDF](/assets/reports/counterfactual_storyboard.pdf)
-* **Presentation Deck:** [Download the Slides](/assets/reports/Counterfactual Storytelling and Visual Storyboarding.pptx)
+* **Presentation Deck:** [Download the Slides](/assets/reports/counterfactual_storyboard.pptx)
