@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Applied Inference Group
 ---
 
@@ -11,3 +11,6 @@ We specialize in **Biostatistical Modeling** and the **Application of Advanced S
 
 ## Our Ideal Clients
 Our services are best suited for **Pharmaceutical companies, Clinical Research Organizations (CROs), healthcare analytics teams, and research-driven organizations** that require deep statistical rigor to evaluate interventions, interpret evidence, and support high-stakes decision-making with robust quantitative tools.
+
+## Our Vision
+We believe strong statistical consulting should do more than produce accurate results. Our vision is to help organizations make confident, evidence-based decisions by combining rigorous modeling, transparent interpretation, and communication that remains clear to both technical and non-technical stakeholders. We aim to build analytical work that is trustworthy, practical, and ready to support real-world impact.
