@@ -24,4 +24,5 @@ This page highlights selected presentation work that reflects our consulting app
 ### Project 3: Methods for Brain Tumor Classification from MRI Images
 * **Type:** Presentation deck
 * **Abstract:** This project compares a baseline convolutional neural network with an EfficientNet-based transfer learning approach for classifying MRI scans into four categories: glioma, meningioma, pituitary tumor, and no tumor. The presentation emphasizes model comparison, class-level behavior, and the practical value of stronger image-classification architectures in medical imaging workflows.
+* **Full Written Report:** [Download the PDF](/asset/reports/brain_tumor_classification_report.pdf)
 * **File:** [Download the presentation deck](/asset/presentations/ez_tumor_presentation.pptx)
